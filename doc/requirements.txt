@@ -1,0 +1,5 @@
+numpydoc
+nbsphinx-link
+myst-parser
+pydata-shpinx-theme
+docutils==0.20.*
