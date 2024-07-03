@@ -3,7 +3,7 @@ repos:
     rev: v4.6.0
     hooks:
       - id: check-added-large-files
-        excluded: pixi.lock
+        exclude: pixi.lock
       - id: check-case-conflict
       - id: end-of-file-fixer
       - id: trailing-whitespace
